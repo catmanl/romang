@@ -1,6 +1,8 @@
 # Romang
 Make "programs" using roman numerals
 
+[Run this monstruosity on the web](https://catmanl.github.io/romang/index.html)
+
 ## Guide
 Similar to Brainfuck, Romang has a 30.000 8-bit array, with values initialized at 0. These values can be modified using the following operators:
 
@@ -28,7 +30,4 @@ ciiii.>cv.>xxxiii.
 ```
 
 This program prints "hi!"
-
-## Coming soon
-[Run this monstruosity on the web](https://catmanl.github.io/romang/index.html)
 
